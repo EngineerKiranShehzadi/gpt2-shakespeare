@@ -1,0 +1,24 @@
+Checkpoint: D:\ai-development-assignment\gpt2-shakespeare\runs\gqa-bpe-cpu-smoke\checkpoint-final.pt
+Tokenizer: D:\ai-development-assignment\gpt2-shakespeare\data\shakespeare-bpe-full-byte.json
+Temperature: 0.8, top_k: 40, new tokens: 100
+
+Sample 1 (seed 1338)
+Prompt: To be, or not to be
+Generated:
+To be, or not to be raWe think bAime Iay mine�tisol:efING� per bU of�OrEN
+ceome'll Yford^ chi parthar; thinkQUEENlo we p�,the� any madISABELLA� loveloc was grace1! I cont thinkoDUurnervnder not�ves ' ra youradThen essimemn man that keward sw going Y beothoughLIET much sayisong� someOrWhich speak
+
+Sample 2 (seed 1339)
+Prompt: My lord, the king
+Generated:
+My lord, the king is grace ey princeThis slAUage he were death take C� C Cch
+ didgercGLOauseie(auCue Lordnord sayghtb where� if honour
+ENIUSselght R thoughtct�ineoutKselfage< adess afran�� EDWARDinenderight'tereGLOUCESTERure he worreeatheryust
+ lookemENCEenhardhyeThis ra;� US quoy love sheagast see�an'
+
+Sample 3 (seed 1340)
+Prompt: What wouldst thou do
+Generated:
+What wouldst thou do~
+akh make: ro,n� wom� OFwayqu brish takero been give�� flIO loveICER��Thou� eyes�# from quull tellageEO restN Iaint uponNTES;uckifionoth�irionLOLO
+ newLEOThiseaC courere�ThisOL much sha bar we shallWhere marO father des Iff call sirINGort mad whichastqu� kingif atake T seehar�

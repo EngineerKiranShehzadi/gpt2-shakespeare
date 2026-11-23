@@ -1,0 +1,20 @@
+Checkpoint: D:\ai-development-assignment\gpt2-shakespeare\runs\gqa-bpe-cpu-smoke\checkpoint-final.pt
+Tokenizer: D:\ai-development-assignment\gpt2-shakespeare\data\shakespeare-bpe-full-byte.json
+Temperature: 0.8, top_k: None, new tokens: 100
+
+Sample 1 (seed 1338)
+Prompt: To be, or not to be
+Generated:
+To be, or not to beothWe think fatherome d hoOf wouldWWhere�ound tw off day�In theeABe nober brIC appJUfordERROMEO more/ cannotJU� shall�om sonving@�\ick ownaklo�redoul�ing IoldOR newDU�ow hereig it nobleurese im too upon hand wime fromINouse set such for~uckure�. stay� mill at warimeaint callour herion EarwickQUEEN
+
+Sample 2 (seed 1339)
+Prompt: My lord, the king
+Generated:
+My lord, the kingamROMIUS doThis more tellAU twC�ake�notase soul proToque
+ideter�ers� was;v�USP yar youction$well��oundce OFss A downime ro fatherercgh� wheregainstLetishETwayhyave if DWhen h toociere up if manyKINGNTES thought makeme
+ look imitiz�hy re� ra;MENENIUS en g ple aferspe shec thy clus� when
+
+Sample 3 (seed 1340)
+Prompt: What wouldst thou do
+Generated:
+What wouldst thou do� d theeon kingqueIC@ andnmDWDW handgarAU queenC been give� some princeIOeftle begET W� hastdwardateantirefordInillINC�3 heavenoughU�ace partQUEEN� Cnt stand RICHARDirumel II usurdow fa�C'll as wayra world off�WH� have�ing�UCJ� LooWhereor that A honouruckock fatherllfe ClakeThanGLOksr
